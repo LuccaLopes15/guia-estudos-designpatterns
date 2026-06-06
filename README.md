@@ -24,6 +24,7 @@ O **NotebookLM** deste projeto foi alimentado utilizando três pilares fundament
 1.  **[Livro Clássico] Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos**
     * *Autores:* Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides (conhecidos consensualmente como *Gang of Four - GoF*).
     * *Papel no Estudo:* Base conceitual acadêmica, detalhamento formal das estruturas e o catálogo original dos 23 padrões fundamentais.
+    * [📂 diretório: `fonts/`](fonts/padroes_de_projetos_erich_gamma.pdf)
 2.  **[Plataforma Web] Refactoring.Guru**
     * *Website:* [refactoring.guru](https://refactoring.guru)
     * *Papel no Estudo:* Abordagem visual excelente, diagramas claros, pseudocódigo intuitivo e analogias do mundo real que facilitam a fixação de como cada padrão opera.
